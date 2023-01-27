@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the School of Earth and Ocean Sciences at the University of Victoria on beautiful Vancouver Island in the province of British Columbia, where I lead the Climate Dynamics Laboratory.
+I am a Research Assistant in the Key Laboratory of Drinking Water Science and Technology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences. I am also pursuing first year of my masters degree program in Environmental Engineering at the University of Chinese Academy of Sciences in the beautiful Haidian District in the province of Beijing, China.
 
-I research the physical climate system, particularly the myriad of interactions between atmosphere, ocean, and ice that give rise to the Earth’s climate. I am especially interested in the ever-evolving climate of the polar regions, both Antarctic and Arctic, as well as the large-scale transport of atmospheric water from equator to pole.
-
-I am a co-chair of the Polar Climate Working Group of the Community Earth System Model, whose development hub is at the National Center for Atmospheric Research in Boulder, Colorado, USA.
+I am planning on researching the physio-chemical wastewater treatment, particularly the advance processes in membrane technology to tackle emerging micropollutants. I am especially interested in the utilization of integrative treatment operations for membrane processess to effectively deal with water contaminants for large-scale implementation.
